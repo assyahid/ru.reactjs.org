@@ -19,12 +19,12 @@ const colors = {
   brandLight: '#bbeffd',
   text: '#1a1a1a', // very dark grey / black substitute
   subtle: '#6d6d6d', // light grey for text
-  subtleOnDark: '#999',
+  subtleOnDark: '#999',//Dusty Gray
   divider: '#ececec', // very light grey
   note: '#ffe564', // yellow
   error: '#ff6464', // yellow
-  white: '#ffffff',
-  black: '#000000',
+  white: '#ffffff',//white
+  black: '#000000',//black
 };
 
 const SIZES = {
